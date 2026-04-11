@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1712826926,
+      "filename": "MistOS-4.6-Lucent-16.0-GAPPS-20260411-avalon-UNOFFICIAL.zip",
+      "id": "put_the_md5_hash_of_the_zip_here",
+      "romtype": "UNOFFICIAL",
+      "size": 2684354560,
+      "url": "https://link-to-your-direct-download.zip",
+      "version": "16.0"
+    }
+  ]
+}
