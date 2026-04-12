@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260412-0204-avalon-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/avalon/MistOS-4.6.1-Lucent-HotFix-16.0-GAPPS-20260412-0204-avalon-UNOFFICIAL.zip/download",
+			"timestamp": 1775959437,
+			"md5": "88e4aaa65f69df61f41ffb1d414ec75d",
+			"sha256": "77ae60fc6acf30b607713c6821b955b97e33420fca7467e2a7702020b9e7339c",
+			"size": 3890021853,
+			"version": "4.6.1-Lucent-HotFix",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
