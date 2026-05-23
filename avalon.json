@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "MistOS-4.7-Aether-16.0-GAPPS-20260522-2045-avalon-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android16/avalon/MistOS-4.7-Aether-16.0-GAPPS-20260522-2045-avalon-UNOFFICIAL.zip/download",
+			"timestamp": 1779475461,
+			"md5": "e42614ddc7a5859672b8a7846e52d53d",
+			"sha256": "20e0675adf56e282db718d95b58f70d7fe65d856c58ee93eddf6f378253193ee",
+			"size": 4150693440,
+			"version": "4.7-Aether",
+			"buildtype": "GAPPS",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
